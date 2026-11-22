@@ -1,1 +1,1 @@
-# Config-Sync
+For IP backup storage only# Config-Sync
